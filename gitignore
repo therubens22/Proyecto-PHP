@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración locales
+.vscode/
+.env
+
+# Dependencias de Composer
+/vendor/
+
+# Archivos generados automáticamente
+composer.lock
